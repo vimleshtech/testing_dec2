@@ -1,0 +1,72 @@
+SDLC : software development life cycle 
+================
+
+pre stage:
+	-Inception 
+		
+There are followng phases of SDLC:
+
+-Requirement Gathering & Analyis 	: by BA
+	-Understanding of current system
+	-Objective of proposed system 
+	-Feasibility study
+	-Resource Planing
+	-Cost
+	-Tim
+	etc.
+	
+	Outcome: 
+	
+		-SRS	: software requirement specification **
+		-FR	: functional rerquirement	     ** 		
+		-BR	: business requirement 		     **	
+		
+	
+-Design 				: by software/solution architect
+	-HLD	: high level design
+	-LLD	: low level design 
+	
+-Development / Implementation / Codin g	: by developer 
+	-to convert the pesudo code in executable product 
+
+
+-Testing / SQT 	**			 : by Tester 
+	Level of Testing:
+	-Unit Testing			: by developer
+	-Integration Testing		: by tester
+	-System Testing 		: by tester
+	-UAT 	(user acceptence testing): by customer / client 
+
+-Release 
+	
+
+Post stage:
+	-Maintainance 
+	
+
+SDLC Models
+==========================
+-Waterfall Model
+-Proto-type
+-Iterative 
+-RAD
+-Spiral 
+
+-V-Model 	
+
+Agile 	: is methodlogy 
+	-SCrum  Tool
+		-Jira 
+		
+			
+
+
+
+
+
+
+
+https://anamika009.atlassian.net
+
+
+
